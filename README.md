@@ -20,13 +20,13 @@ This repository contains the implementation of a container placement algorithm d
 # Getting Started
 Once the cloud environment is set up, follow these steps:
 
-Clone the Repository: Start by cloning this repository to your master node of kubernetes cluster using the following command:
+Clone the Repository: Start by cloning this repository to your master node of kubernetes cluster using the following command:          
 $`git clone https://github.com/mrunallachake/container-placement-optimization.git`
 
-Change the project_id as per your GCP project in placement.py script.
+Change the project_id as per your GCP project in placement.py script.           
 `project_id = "<your_project_name>"`
 
-You can deploy the new containers using our placement algorithm by using below command:
+You can deploy the new containers using our placement algorithm by using below command:            
 $`customctl apply <deployment_yaml_file>`
 
 Algorithm Implementation: Explore the placement algorithm implementation from placement.py. Review the code and comments to understand how the best-fit bin packing approach is applied for container placement optimization.
