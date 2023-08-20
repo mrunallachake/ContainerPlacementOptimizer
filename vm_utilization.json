@@ -1,0 +1,17 @@
+{
+    "2383195150009221538": {
+      "avg_cpu_utilization": 1.12,
+      "avg_ram_utilization": 10.33,
+      "avg_disk_utilization": 26.33
+    },
+    "7080047917489963429": {
+      "avg_cpu_utilization": 95.66,
+      "avg_ram_utilization": 98.13,
+      "avg_disk_utilization": 99.51
+    },
+    "7080047917489969872": {
+      "avg_cpu_utilization": 50.22,
+      "avg_ram_utilization": 60.32,
+      "avg_disk_utilization": 43.67
+    }
+}
