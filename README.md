@@ -17,6 +17,11 @@ This repository contains the implementation of a container placement algorithm d
 - Enable Stackdriver API to get VM utilization data.
 -  Make sure you have Python and the necessary dependencies installed. You can set up a virtual environment to manage these dependencies effectively.
 
+# Architecture
+
+![Project Architecture](architecture.png)
+
+
 # Getting Started
 Once the cloud environment is set up, follow these steps:
 
