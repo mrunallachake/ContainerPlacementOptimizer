@@ -41,18 +41,17 @@ You can deploy the new containers using our placement algorithm by using below c
 
 $`customctl apply <deployment_yaml_file>`
 
-**Algorithm Implementation: **
+**Algorithm Implementation:**  
 
 Explore the placement algorithm implementation from placement.py. Review the code and comments to understand how the best-fit bin packing approach is applied for container placement optimization.
 
-**Examples and Demos:  **
-
+**Examples and Demos:**  
 The examples directory contains sample nginx container deployment yaml file and vm_utilization.json file which stores VM resource utilization sample data collected using Stackdriver API
 
-Contributing:  
+**Contributing:**  
 Contributions to this project are welcome! If you'd like to contribute, please follow the standard GitHub workflow.
 
-Contact
+**Contact:**
 If you have any questions or need further assistance, feel free to contact the project contributors/maintainers:
 
 Kaushik Daiv - kaushik777d@gmail.com  
