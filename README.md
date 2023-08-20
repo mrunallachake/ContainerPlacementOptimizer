@@ -21,6 +21,10 @@ This repository contains the implementation of a container placement algorithm d
 
 ![Project Architecture](architecture.png)
 
+# Cost Minimization
+
+![Cost Minimization](costMinimization.png)
+
 
 # Getting Started
 Once the cloud environment is set up, follow these steps:
