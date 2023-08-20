@@ -50,7 +50,7 @@ $`customctl apply <deployment_yaml_file>`
 **Contact:**
 If you have any questions or need further assistance, feel free to contact the project contributors/maintainers:
 
+Mrunal Lachake - mrunallachake@gmail.com   
 Kaushik Daiv - kaushik777d@gmail.com  
-Mrunal Lachake - mrunallachake@gmail.com
 
 We appreciate your interest in this project!
